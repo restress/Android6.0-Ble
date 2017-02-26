@@ -1,0 +1,7 @@
+#Sun Feb 26 14:45:43 CST 2017
+base.0=E\:\\AAN8SVIP\\APP\\ble\\Bluetooth4_31finalfinal\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_dce7bc2c5bc416dd28bbd9966c5ead295bbe4f3f
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\AAN8SVIP\\APP\\ble\\Bluetooth4_31finalfinal\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8264f71ece29eccb27579f2aaa86372a529ce313\\classes.dex
+base.1=E\:\\AAN8SVIP\\APP\\ble\\Bluetooth4_31finalfinal\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8264f71ece29eccb27579f2aaa86372a529ce313
+file.0=E\:\\AAN8SVIP\\APP\\ble\\Bluetooth4_31finalfinal\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_dce7bc2c5bc416dd28bbd9966c5ead295bbe4f3f\\classes.dex

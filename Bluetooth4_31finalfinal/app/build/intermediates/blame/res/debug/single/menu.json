@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "I:\\github\\Android6.0-Ble\\Bluetooth4_31finalfinal\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "I:\\github\\Android6.0-Ble\\Bluetooth4_31finalfinal\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\app\\Bluetoothfinalfinal7.0\\Bluetooth4_31final\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\app\\Bluetoothfinalfinal7.0\\Bluetooth4_31final\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\AAN8SVIP\\APP\\ble\\Bluetooth4_31finalfinal\\app\\build\\intermediates\\res\\merged\\debug\\menu\\gatt_services.xml",
+        "source": "E:\\AAN8SVIP\\APP\\ble\\Bluetooth4_31finalfinal\\app\\src\\main\\res\\menu\\gatt_services.xml"
+    },
+    {
+        "merged": "D:\\app\\Bluetoothfinalfinal7.0\\Bluetooth4_31final\\app\\build\\intermediates\\res\\merged\\debug\\menu\\gatt_services.xml",
+        "source": "D:\\app\\Bluetoothfinalfinal7.0\\Bluetooth4_31final\\app\\src\\main\\res\\menu\\gatt_services.xml"
+    },
+    {
+        "merged": "E:\\AAN8SVIP\\APP\\ble\\Bluetooth4_31finalfinal\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\AAN8SVIP\\APP\\ble\\Bluetooth4_31finalfinal\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\AAN8SVIP\\APP\\ble\\Bluetooth4_31final\\app\\build\\intermediates\\res\\merged\\debug\\menu\\gatt_services.xml",
+        "source": "D:\\AAN8SVIP\\APP\\ble\\Bluetooth4_31final\\app\\src\\main\\res\\menu\\gatt_services.xml"
+    },
+    {
+        "merged": "E:\\AAN8SVIP\\APP\\ble\\Bluetooth4_31final\\app\\build\\intermediates\\res\\merged\\debug\\menu\\gatt_services.xml",
+        "source": "E:\\AAN8SVIP\\APP\\ble\\Bluetooth4_31final\\app\\src\\main\\res\\menu\\gatt_services.xml"
+    },
+    {
+        "merged": "I:\\github\\Android6.0-Ble\\Bluetooth4_31finalfinal\\app\\build\\intermediates\\res\\merged\\debug\\menu\\gatt_services.xml",
+        "source": "I:\\github\\Android6.0-Ble\\Bluetooth4_31finalfinal\\app\\src\\main\\res\\menu\\gatt_services.xml"
+    },
+    {
+        "merged": "D:\\AAN8SVIP\\APP\\ble\\Bluetooth4_31final\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\AAN8SVIP\\APP\\ble\\Bluetooth4_31final\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\AAN8SVIP\\APP\\ble\\Bluetooth4_31final\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\AAN8SVIP\\APP\\ble\\Bluetooth4_31final\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]

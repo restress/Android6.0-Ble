@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="output"><source path="C:\Users\restress\.android\build-cache\02c8f4894bbbd427e6d92ae11fedf3931cf2f247\output\assets"/></dataSet><dataSet config="main"><source path="E:\AAN8SVIP\APP\ble\Bluetooth4_31finalfinal\app\src\main\assets"/><source path="E:\AAN8SVIP\APP\ble\Bluetooth4_31finalfinal\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="E:\AAN8SVIP\APP\ble\Bluetooth4_31finalfinal\app\src\debug\assets"/></dataSet></merger>

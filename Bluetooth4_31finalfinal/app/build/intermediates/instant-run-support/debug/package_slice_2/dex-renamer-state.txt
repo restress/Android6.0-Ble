@@ -1,0 +1,4 @@
+#Sun Feb 26 14:45:43 CST 2017
+base.0=E\:\\AAN8SVIP\\APP\\ble\\Bluetooth4_31finalfinal\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2
+renamed.0=classes.dex
+file.0=E\:\\AAN8SVIP\\APP\\ble\\Bluetooth4_31finalfinal\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2\\classes.dex
