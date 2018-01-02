@@ -1,4 +1,4 @@
-#Sun Feb 26 13:02:18 CST 2017
-base.0=E\:\\AAN8SVIP\\APP\\ble\\Bluetooth4_31finalfinal\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_0
+#Wed Dec 20 11:12:20 CST 2017
+base.0=E\:\\github\\Android6.0-Ble\\Bluetooth4_31finalfinal\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
 renamed.0=classes.dex
-file.0=E\:\\AAN8SVIP\\APP\\ble\\Bluetooth4_31finalfinal\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_0\\classes.dex

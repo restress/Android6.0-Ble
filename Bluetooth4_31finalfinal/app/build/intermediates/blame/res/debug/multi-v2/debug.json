@@ -1,0 +1,132 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\github\\Android6.0-Ble\\Bluetooth4_31finalfinal\\app\\build\\intermediates\\res\\merged\\debug\\values-sw720dp-land-v13_values-sw720dp-land-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "E:\\github\\Android6.0-Ble\\Bluetooth4_31finalfinal\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "206",
+                        "endColumns": "58",
+                        "endOffsets": "260"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\github\\Android6.0-Ble\\Bluetooth4_31finalfinal\\app\\build\\intermediates\\res\\merged\\debug\\values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "E:\\github\\Android6.0-Ble\\Bluetooth4_31finalfinal\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "183",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "317"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\github\\Android6.0-Ble\\Bluetooth4_31finalfinal\\app\\build\\intermediates\\res\\merged\\debug\\values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "E:\\github\\Android6.0-Ble\\Bluetooth4_31finalfinal\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "227",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "375"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\github\\Android6.0-Ble\\Bluetooth4_31finalfinal\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "E:\\github\\Android6.0-Ble\\Bluetooth4_31finalfinal\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "92,151",
+                        "endColumns": "57,55",
+                        "endOffsets": "145,202"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                },
+                {
+                    "source": "E:\\github\\Android6.0-Ble\\Bluetooth4_31finalfinal\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "7,17",
+                        "startColumns": "4,4",
+                        "startOffsets": "261,613",
+                        "endLines": "13,19",
+                        "endColumns": "12,12",
+                        "endOffsets": "570,770"
+                    },
+                    "to": {
+                        "startLines": "21,28",
+                        "startColumns": "4,4",
+                        "startOffsets": "1110,1418",
+                        "endLines": "27,30",
+                        "endColumns": "12,12",
+                        "endOffsets": "1413,1573"
+                    }
+                },
+                {
+                    "source": "E:\\github\\Android6.0-Ble\\Bluetooth4_31finalfinal\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "16,17,22,23,25,18,19,20,32,33,34,35,21,24,28,27,29",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "702,751,1024,1073,1187,819,865,931,1495,1545,1601,1645,979,1128,1332,1273,1407",
+                        "endColumns": "47,66,47,53,82,44,64,46,48,54,42,42,43,57,73,57,59",
+                        "endOffsets": "745,813,1067,1122,1265,859,925,973,1539,1595,1639,1683,1018,1181,1401,1326,1462"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "169,217,284,332,386,469,514,579,626,675,730,773,816,860,918,992,1050",
+                        "endColumns": "47,66,47,53,82,44,64,46,48,54,42,42,43,57,73,57,59",
+                        "endOffsets": "212,279,327,381,464,509,574,621,670,725,768,811,855,913,987,1045,1105"
+                    }
+                }
+            ]
+        }
+    ]
+}

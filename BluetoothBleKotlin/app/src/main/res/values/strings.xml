@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BluetoothBleKotlin</string>
+    <string name="error_bluetooth_not_supported">此设备不支持蓝牙</string>
+    <string name="ble_not_supported">当前设备不支持蓝牙</string>
+    <string name="scan_ble">查找设备</string>
+    <string name="connected">连接</string>
+    <string name="disconnected">断开</string>
+    <string name="no_data">无数据</string>
+    <string name="activate_device">激活设备</string>
+</resources>

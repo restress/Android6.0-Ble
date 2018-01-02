@@ -105,11 +105,10 @@ public class DeviceScanActivity extends ListActivity {
         }
 
         Boolean haha =isLocationEnable(this);
-        if (haha){
-
-        }else {
+        if (!haha){
             setLocationService();
         }
+
     }
 
     @Override
@@ -146,18 +145,16 @@ public class DeviceScanActivity extends ListActivity {
     protected void onResume() {
         super.onResume();
 
-        // 为了确保设备上蓝牙能使用, 如果当前蓝牙设备没启用,弹出对话框向用户要求授予权限来启用
         if (!mBluetoothAdapter.isEnabled()) {
-            if (!mBluetoothAdapter.isEnabled()) {
-                Intent enableBtIntent = new Intent(BluetoothAdapter.ACTION_REQUEST_ENABLE);
-                startActivityForResult(enableBtIntent, REQUEST_ENABLE_BT);
-            }
+            Intent enableBtIntent = new Intent(BluetoothAdapter.ACTION_REQUEST_ENABLE);
+            startActivityForResult(enableBtIntent, REQUEST_ENABLE_BT);
         }
 
         // Initializes list view adapter.
         mLeDeviceListAdapter = new LeDeviceListAdapter();
         setListAdapter(mLeDeviceListAdapter);
-        scanLeDevice(true);
+        scanLeDevice(true); // 为了确保设备上蓝牙能使用, 如果当前蓝牙设备没启用,弹出对话框向用户要求授予权限来启用
+
     }
 
     @Override
@@ -183,7 +180,6 @@ public class DeviceScanActivity extends ListActivity {
             finish();
             return;
         }*/
-
 
         super.onActivityResult(requestCode, resultCode, data);
     }

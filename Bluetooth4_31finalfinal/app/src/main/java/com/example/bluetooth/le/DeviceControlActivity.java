@@ -78,6 +78,7 @@ public class DeviceControlActivity extends Activity {
 
 
     // Code to manage Service lifecycle.
+    // Code to manage Service lifecycle.
     private final ServiceConnection mServiceConnection = new ServiceConnection() {
 
         @Override
@@ -255,7 +256,7 @@ public class DeviceControlActivity extends Activity {
 
     //开灯按键响应函数
     public void onSwitchBulbClicked(View v) {
-        if (mConnected = false) {
+        if (mConnected == false) {
             Toast.makeText(DeviceControlActivity.this, "请先连接设备", Toast.LENGTH_SHORT).show();
         } else {
             if (openBulb.getText() == "开灯") {
